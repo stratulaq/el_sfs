@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-size: 12px;
+}
+.react-datepicker-wrapper {
+    padding: 8px;
+    border: 1px solid #e5e7eb!important;
+    border-radius: 6px;
+}
